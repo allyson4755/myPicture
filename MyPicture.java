@@ -37,9 +37,9 @@ public class MyPicture
         
         
         
-        /* for (int i = 0; i < sky.size(); i+=1) {
+        for (int i = 0; i < sky.size(); i+=1) {
             Circle sky[i] = new Circle();
-        } */ 
+        } 
         
         //Circle grass = new Circle();
         //grass.makeVisible();
